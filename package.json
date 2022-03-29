@@ -1,0 +1,23 @@
+{
+  "name": "aula05sdmservermanha",
+  "version": "1.0.0",
+  "description": "Um servidor ligth teste para nossa aula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmamorim/Aula05SDMServerManha.git"
+  },
+  "author": "Marcelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmamorim/Aula05SDMServerManha/issues"
+  },
+  "homepage": "https://github.com/mmamorim/Aula05SDMServerManha#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  }
+}
