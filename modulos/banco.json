@@ -1,0 +1,38 @@
+{
+    "bandas": [
+        {
+            "id": "BANDA-1",
+            "nome": "Black Sabbath"
+        },
+        {
+            "id": "BANDA-2",
+            "nome": "Iron Maiden"
+        },
+        {
+            "id": "BANDA-3",
+            "nome": "Sepultura"
+        },
+        {
+            "id": "BANDA-5",
+            "nome": "ACDC",
+            "albuns": [ "Alb-1" ]
+        },
+        {
+            "id": "BANDA-4",
+            "nome": "Deep Purple",
+            "albuns": [ "Alb-2" ]
+        }
+    ],
+    "albuns": [
+        {
+            "id": "ALB-1",
+            "nome": "Back in black",
+            "banda": "BANDA-5"
+        },
+        {
+            "id": "ALB-2",
+            "nome": "Storbringer",
+            "banda": "BANDA-4"
+        }
+    ]
+}
